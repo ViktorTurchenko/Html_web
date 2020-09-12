@@ -1,0 +1,13 @@
+body {
+        background-color: rgb(36, 141, 155);
+      }
+div {
+        
+        color: rgb(21, 14, 117);
+        margin: auto;
+        width: 50%;
+        border: 3px solid green;
+        padding: 10px;
+        background-color: blanchedalmond;
+        text-align-last: center;
+}
